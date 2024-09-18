@@ -2,13 +2,12 @@
 Welcome to my Robotics Projects repository! This repository contains various projects I have worked on in the field of robotics, focusing on different aspects like automation, machine learning integration, sensor usage, and robot control systems. Each project is designed to showcase specific skills and concepts in robotics.
 
 ### Project List
-### 1. [Project Name 1]
-Description: Brief overview of the project's goals, features, and components used.
-Technologies/Hardware: List of relevant technologies, programming languages, and hardware components.
-Features:
-Feature 1
-Feature 2
-Feature 3
+### 1. Basket Bo
+- Description: A robot built using a Motor and Switch and Arm to put the ball into the basket.
+- Technologies/Hardware: Rocker Switch, Mechanical Arm, Motors.
+- Features:
+- - Manually Controlled bot
+  - Person controlling was blind folded
 ### 2. [Project Name 2]
 Description: Brief overview of the project.
 Technologies/Hardware:
